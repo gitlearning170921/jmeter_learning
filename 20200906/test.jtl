@@ -1,0 +1,250 @@
+1599531699451,53,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,1,1,http://localhost:9091/api/v1/user/login,52,0,44
+1599531699517,3,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,1,1,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531699536,7,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,2,2,http://localhost:9091/api/v1/user/login,7,0,2
+1599531699544,5,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,2,2,http://localhost:9091/api/v1/menu/list,5,0,1
+1599531699736,8,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,3,3,http://localhost:9091/api/v1/user/login,8,0,3
+1599531699745,4,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,3,3,http://localhost:9091/api/v1/menu/list,4,0,1
+1599531699936,6,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,4,4,http://localhost:9091/api/v1/user/login,5,0,1
+1599531699942,4,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,4,4,http://localhost:9091/api/v1/menu/list,4,0,1
+1599531700136,6,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,6,0,1
+1599531700142,4,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,4,0,1
+1599531699521,2410,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2409,0,3
+1599531701931,4,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531699339,2470,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2467,126,49
+1599531701944,4,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,4,0,0
+1599531701949,2,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531699549,2405,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,1
+1599531701956,6,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,5,0,1
+1599531699536,2423,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2422,3,5
+1599531701963,2,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531701966,2,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531699750,2408,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531702159,2,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531699735,2422,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2422,4,4
+1599531702161,3,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531702164,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531699946,2405,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,1
+1599531702352,5,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,5,0,0
+1599531699936,2420,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2419,1,3
+1599531702358,3,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531702361,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531700147,2406,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2406,0,0
+1599531702553,6,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,6,0,1
+1599531700135,2422,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2422,2,3
+1599531702559,3,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531702563,2,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531701952,2407,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531704360,2,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531701935,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2415,13,0
+1599531704363,3,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531704366,2,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531701969,2407,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2406,0,0
+1599531704376,3,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531701962,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2412,3,1
+1599531704379,2,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531704382,3,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,0
+1599531702168,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531704576,2,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531702161,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2415,2,2
+1599531704578,3,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531704582,2,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531702364,2406,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2406,0,0
+1599531704770,6,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,5,0,1
+1599531702357,2418,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2415,1,1
+1599531704776,3,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531704779,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531702566,2408,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531704974,4,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531702559,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2416,2,2
+1599531704978,3,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531704981,2,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531704369,2407,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531706776,3,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531704363,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2414,1,1
+1599531706780,2,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531706783,3,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531704385,2407,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,1
+1599531706793,2,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531704379,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2414,2,1
+1599531706795,3,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531706798,2,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531704585,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531706993,2,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531704578,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2414,3,1
+1599531706996,3,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531706999,2,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531704782,2409,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,1
+1599531707191,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531704776,2418,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2417,0,4
+1599531707194,3,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531707197,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531704984,2407,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531707391,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531704978,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2414,1,2
+1599531707394,3,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531707397,3,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531706786,2408,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531709195,2,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531706780,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2414,3,0
+1599531709198,2,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531709201,2,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531706801,2408,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531709209,3,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531706795,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2414,1,2
+1599531709212,3,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531709215,3,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531707002,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2406,0,0
+1599531709410,2,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531706996,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2412,2,0
+1599531709413,2,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531709416,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,0
+1599531707200,2408,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,1
+1599531709609,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531707194,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2417,0,4
+1599531709612,2,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531709615,2,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531707401,2408,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531709810,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531707394,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2417,1,3
+1599531709813,3,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531709816,2,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531709204,2408,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531711613,3,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531709198,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2413,2,0
+1599531711616,3,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531711620,6,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,6,0,0
+1599531709218,2407,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531711626,4,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,4,0,1
+1599531709212,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2416,0,2
+1599531711630,3,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531711633,3,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531709419,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,1
+1599531711826,3,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531709413,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2415,1,2
+1599531711829,3,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531711832,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531709618,2408,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531712027,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,0
+1599531709612,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2415,3,1
+1599531712031,3,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531712034,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,1
+1599531709819,2408,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531712227,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531709813,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2413,1,1
+1599531712230,2,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531712232,3,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531711626,2406,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2406,0,1
+1599531714032,3,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531711616,2418,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2418,1,3
+1599531714035,3,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531714038,7,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,7,0,1
+1599531711636,2410,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2410,0,1
+1599531714046,3,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531711630,2419,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2419,0,4
+1599531714050,3,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,0
+1599531714053,6,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,5,0,0
+1599531711835,2408,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,1
+1599531714243,3,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531711829,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2416,0,4
+1599531714246,2,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531714249,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531712037,2408,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,1
+1599531714445,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531712030,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2415,2,3
+1599531714448,3,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531714451,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531712235,2410,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2410,0,1
+1599531714644,7,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,7,0,1
+1599531712230,2422,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2422,1,3
+1599531714652,10,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,9,0,1
+1599531714662,4,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531714046,2405,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,0
+1599531716451,2,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531714035,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2417,3,2
+1599531716454,6,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,6,0,3
+1599531716460,5,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,4,0,1
+1599531714059,2409,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2409,0,1
+1599531716467,12,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,12,0,1
+1599531714049,2430,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2429,1,2
+1599531716479,4,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,4,0,1
+1599531716483,8,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,8,0,1
+1599531714252,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,1
+1599531716659,2,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531714246,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2413,2,2
+1599531716662,2,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531716665,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,0
+1599531714455,2408,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,2
+1599531716863,2,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531714448,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2416,2,5
+1599531716866,2,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531716868,6,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,5,0,1
+1599531714666,2410,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2409,0,1
+1599531717076,2,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531714652,2426,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2423,0,3
+1599531717079,2,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531717081,3,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531716465,2416,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2416,0,1
+1599531718881,4,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,4,0,1
+1599531716454,2431,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2430,0,6
+1599531718885,5,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,5,0,1
+1599531718891,3,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531716492,2417,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2417,0,1
+1599531718909,3,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531716479,2432,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2432,1,4
+1599531718912,3,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,3,0,1
+1599531718915,3,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531716668,2408,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,1
+1599531719076,3,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531716661,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2416,2,2
+1599531719079,2,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,1
+1599531719082,2,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531716874,2408,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,2
+1599531719282,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531716866,2419,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2418,0,4
+1599531719285,4,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,4,0,1
+1599531719291,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,0
+1599531717084,2407,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531719492,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531717079,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2414,1,2
+1599531719495,2,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531719498,2,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,2,0,0
+1599531718894,2406,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,1
+1599531721301,3,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531718885,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2415,2,4
+1599531721304,6,1.登陆接口,200,,Thread Group 1-1,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,6,0,3
+1599531721310,3,2.浏览菜单接口,200,OK,Thread Group 1-1,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531718919,2408,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531721327,2,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531718912,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,5,5,null,2416,1,2
+1599531721330,2,1.登陆接口,200,,Thread Group 1-2,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531721332,3,2.浏览菜单接口,200,OK,Thread Group 1-2,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,0
+1599531719085,2407,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2407,0,0
+1599531721492,3,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531719079,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,5,5,null,2413,2,2
+1599531721495,2,1.登陆接口,200,,Thread Group 1-3,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531721497,3,2.浏览菜单接口,200,OK,Thread Group 1-3,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531719294,2405,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,1
+1599531721700,2,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531719285,2414,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,5,5,null,2414,3,2
+1599531721703,5,1.登陆接口,200,,Thread Group 1-4,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,5,0,0
+1599531721708,3,2.浏览菜单接口,200,OK,Thread Group 1-4,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,3,0,1
+1599531719501,2408,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2408,0,0
+1599531721909,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531719495,2415,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,5,5,null,2415,2,1
+1599531721913,3,1.登陆接口,200,,Thread Group 1-5,text,true,,282,365,5,5,http://localhost:9091/api/v1/user/login,2,0,0
+1599531721916,4,2.浏览菜单接口,200,OK,Thread Group 1-5,text,true,,2251,246,5,5,http://localhost:9091/api/v1/menu/list,4,0,0
+1599531721313,2405,3.下单接口,200,,Thread Group 1-1,text,true,,210,790,5,5,http://localhost:9091/api/v1/menu/confirm,2405,0,0
+1599531723718,3,4.注销接口,200,,Thread Group 1-1,text,true,,195,270,5,5,http://localhost:9091/api/v1/user/logout,3,0,1
+1599531721304,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2938,1671,5,5,null,2417,0,5
+1599531721335,2409,3.下单接口,200,,Thread Group 1-2,text,true,,210,790,4,4,http://localhost:9091/api/v1/menu/confirm,2409,0,1
+1599531723744,2,4.注销接口,200,,Thread Group 1-2,text,true,,195,270,4,4,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531721329,2416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2938,1671,4,4,null,2416,2,2
+1599531721500,2409,3.下单接口,200,,Thread Group 1-3,text,true,,210,790,3,3,http://localhost:9091/api/v1/menu/confirm,2409,0,1
+1599531723909,3,4.注销接口,200,,Thread Group 1-3,text,true,,195,270,3,3,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531721495,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2938,1671,3,3,null,2416,0,3
+1599531721711,2406,3.下单接口,200,,Thread Group 1-4,text,true,,210,790,2,2,http://localhost:9091/api/v1/menu/confirm,2406,0,1
+1599531724117,3,4.注销接口,200,,Thread Group 1-4,text,true,,195,270,2,2,http://localhost:9091/api/v1/user/logout,2,0,1
+1599531721702,2417,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2938,1671,2,2,null,2416,1,3
+1599531721920,2409,3.下单接口,200,,Thread Group 1-5,text,true,,210,790,1,1,http://localhost:9091/api/v1/menu/confirm,2409,0,1
+1599531724330,3,4.注销接口,200,,Thread Group 1-5,text,true,,195,270,1,1,http://localhost:9091/api/v1/user/logout,2,0,0
+1599531721912,2419,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2938,1671,1,1,null,2417,2,1
